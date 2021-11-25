@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dclif/WhatsUp/static/css/main.84e89b7a.chunk.css",
+    "main.js": "/dclif/WhatsUp/static/js/main.d94b1334.chunk.js",
+    "main.js.map": "/dclif/WhatsUp/static/js/main.d94b1334.chunk.js.map",
+    "runtime-main.js": "/dclif/WhatsUp/static/js/runtime-main.8989d1a8.js",
+    "runtime-main.js.map": "/dclif/WhatsUp/static/js/runtime-main.8989d1a8.js.map",
+    "static/js/2.fb66597a.chunk.js": "/dclif/WhatsUp/static/js/2.fb66597a.chunk.js",
+    "static/js/2.fb66597a.chunk.js.map": "/dclif/WhatsUp/static/js/2.fb66597a.chunk.js.map",
+    "index.html": "/dclif/WhatsUp/index.html",
+    "static/css/main.84e89b7a.chunk.css.map": "/dclif/WhatsUp/static/css/main.84e89b7a.chunk.css.map",
+    "static/js/2.fb66597a.chunk.js.LICENSE.txt": "/dclif/WhatsUp/static/js/2.fb66597a.chunk.js.LICENSE.txt",
+    "static/media/chatlogo.d3d04b66.png": "/dclif/WhatsUp/static/media/chatlogo.d3d04b66.png",
+    "static/media/loading.4491ef28.svg": "/dclif/WhatsUp/static/media/loading.4491ef28.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8989d1a8.js",
+    "static/js/2.fb66597a.chunk.js",
+    "static/css/main.84e89b7a.chunk.css",
+    "static/js/main.d94b1334.chunk.js"
+  ]
+}
